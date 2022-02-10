@@ -126,6 +126,7 @@ android_library {
         "smartspace-google",
         "bcsmartspace-res",
         "tensorflowlite_java",
+        "faceunlock_framework",
     ],
     manifest: "AndroidManifest.xml",
 
